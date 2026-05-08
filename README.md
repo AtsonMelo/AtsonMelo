@@ -1,16 +1,26 @@
-<!-- profile-readme-refresh -->
+<div align="center">
+
 # Olá, eu sou o Atson Melo 👋
 
-Sou técnico com foco prático em **eletrônica, automação, diagnóstico de hardware e desenvolvimento de ferramentas para bancada**.
+🔧 Técnico em evolução, unindo **eletrônica, automação, diagnóstico de hardware e desenvolvimento de software**.
 
-Atualmente estou evoluindo meus estudos em:
+Atualmente estudo e pratico **C#/.NET, PowerShell, Windows Internals, automação industrial, eletrônica de potência e diagnóstico de placas**.
 
-- Eletrônica aplicada e diagnóstico de placas.
-- Eletrônica de potência, inversores, fontes e equipamentos industriais.
-- Automação industrial com CLP, Modbus TCP/RTU e sistemas de supervisão.
-- C#, .NET 8, Windows Forms e desenvolvimento desktop.
-- PowerShell, Git, GitHub, versionamento e automação de tarefas.
-- Windows Internals e monitoramento de hardware.
+</div>
+
+---
+
+## Sobre mim
+
+Sou técnico com foco prático em bancada, medições e desenvolvimento de ferramentas úteis para diagnóstico.
+
+Tenho interesse em:
+
+- Eletrônica aplicada e manutenção de placas.
+- Inversores, fontes chaveadas e equipamentos industriais.
+- Automação com CLP, Modbus TCP/RTU e supervisão.
+- Desenvolvimento desktop com C#/.NET e Windows Forms.
+- PowerShell, Git, GitHub e Windows Internals.
 
 ---
 
@@ -20,75 +30,25 @@ Atualmente estou evoluindo meus estudos em:
 
 Aplicativo em C#/.NET para monitoramento de sensores de hardware no Windows.
 
-Principais focos do projeto:
-
-- Leitura de sensores reais com LibreHardwareMonitorLib.
-- Dashboard com CPU, GPU, RAM, SSD, temperatura, ventoinhas e tensões.
-- Logs CSV.
-- Ícone na bandeja.
-- Tela de dados brutos.
-- Inspetor de bits.
-- Scope/Osciloscópio virtual.
-- Atualização via GitHub Releases.
-
-Repositório:
-
-[monitor-hardware](https://github.com/AtsonMelo/monitor-hardware)
-
----
-
-### Monitor Motor
-
-Projeto de estudo em automação industrial usando CLP, Modbus, backend Python/Flask e interface web.
-
-Principais focos:
-
-- Comunicação Modbus TCP.
-- Simulação e leitura de registradores.
-- Integração entre CLP, backend e frontend.
-- Organização de documentação técnica.
-
-Repositório:
-
-[monitor-motor](https://github.com/AtsonMelo/monitor-motor)
-
----
+[Ver repositório](https://github.com/AtsonMelo/monitor-hardware)
 
 ### Visualg
 
-Meu primeiro contato com programação.
+Meu primeiro contato com programação e lógica de algoritmos.
 
-Este repositório representa o início da minha base em lógica de programação, algoritmos, variáveis, condicionais, repetição, vetores e organização do raciocínio lógico.
-
-Repositório:
-
-[Visualg](https://github.com/AtsonMelo/Visualg)
-
----
+[Ver repositório](https://github.com/AtsonMelo/Visualg)
 
 ### Império Animal do Deserto
 
-Projeto de jogo 3D em JavaScript, Vite e Three.js.
+Jogo 3D em JavaScript, Vite e Three.js.
 
-Principais focos:
-
-- Mundo 3D.
-- Mecânicas de jogo.
-- Inventário.
-- NPCs.
-- Construção.
-- Eventos.
-- Interface administrativa.
-
-Repositório:
-
-[imperio-animal-do-deserto](https://github.com/AtsonMelo/imperio-animal-do-deserto)
+[Ver repositório](https://github.com/AtsonMelo/imperio-animal-do-deserto)
 
 ---
 
 ## Tecnologias e ferramentas
 
-<div align="left">
+<div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -103,23 +63,9 @@ Repositório:
 
 ---
 
-## Áreas de estudo
-
-- Diagnóstico de placas eletrônicas.
-- Fontes chaveadas.
-- Inversores de frequência.
-- Gate drivers e barramento DC.
-- Automação industrial.
-- Modbus TCP/RTU.
-- Desenvolvimento de ferramentas técnicas.
-- Monitoramento de hardware.
-- Documentação técnica e versionamento.
-
----
-
 ## GitHub Stats
 
-<div align="left">
+<div align="center">
 
 ![Atson GitHub stats](https://github-readme-stats-atsonmelo.vercel.app/api?username=AtsonMelo&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -131,7 +77,4 @@ Repositório:
 
 ## Objetivo
 
-Construir uma base técnica sólida unindo **bancada, medições, eletrônica, automação e software**, criando ferramentas úteis para diagnóstico, manutenção e aprendizado prático.
-
-
-
+Construir uma base sólida unindo **bancada, eletrônica, automação e software**, criando ferramentas técnicas para diagnóstico, manutenção e aprendizado prático.
