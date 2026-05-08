@@ -1,3 +1,4 @@
+<!-- profile-readme-refresh -->
 # Olá, eu sou o Atson Melo 👋
 
 Sou técnico com foco prático em **eletrônica, automação, diagnóstico de hardware e desenvolvimento de ferramentas para bancada**.
@@ -131,5 +132,6 @@ Repositório:
 ## Objetivo
 
 Construir uma base técnica sólida unindo **bancada, medições, eletrônica, automação e software**, criando ferramentas úteis para diagnóstico, manutenção e aprendizado prático.
+
 
 
