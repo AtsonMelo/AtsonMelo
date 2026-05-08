@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Atson Melo 👋
+# Olá, eu sou o Atson Melo 🤝
 
 🔧 Técnico em evolução, unindo **eletrônica, automação, diagnóstico de hardware e desenvolvimento de software**.
 
