@@ -120,9 +120,9 @@ Repositório:
 
 <div align="left">
 
-![Atson GitHub stats](https://github-readme-stats.vercel.app/api?username=AtsonMelo&show_icons=true&theme=tokyonight&hide_border=true)
+![Atson GitHub stats](https://github-readme-stats-atsonmelo.vercel.app/api?username=AtsonMelo&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtsonMelo&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-atsonmelo.vercel.app/api/top-langs/?username=AtsonMelo&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -131,4 +131,5 @@ Repositório:
 ## Objetivo
 
 Construir uma base técnica sólida unindo **bancada, medições, eletrônica, automação e software**, criando ferramentas úteis para diagnóstico, manutenção e aprendizado prático.
+
 
