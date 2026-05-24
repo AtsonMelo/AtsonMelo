@@ -1,0 +1,31 @@
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+
+# Logs
+*.log
+logs/
+
+# Ambiente local
+.env
+.env.*
+*.local
+
+# Segredos e certificados
+*.pem
+*.key
+*.pfx
+*.p12
+*.ppk
+credentials.json
+secrets.json
+secret.json
+
+# Temporarios
+*.tmp
+*.bak
+*.swp
