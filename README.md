@@ -2,9 +2,9 @@
 
 # Olá, eu sou o Atson Melo 🤝
 
-🔧 Técnico em evolução, unindo **eletrônica, automação, diagnóstico de hardware e desenvolvimento de software**.
+🔧 Técnico em Telemetria e Automação Industrial, em evolução para programação aplicada à indústria.
 
-Atualmente estudo e pratico **C#/.NET, PowerShell, Windows Internals, automação industrial, eletrônica de potência e diagnóstico de placas**.
+Atuo unindo **CLPs, eletrônica, diagnóstico técnico, PowerShell, C#/.NET, Python, Git/GitHub e documentação técnica**.
 
 </div>
 
@@ -12,37 +12,66 @@ Atualmente estudo e pratico **C#/.NET, PowerShell, Windows Internals, automaçã
 
 ## Sobre mim
 
-Sou técnico com foco prático em bancada, medições e desenvolvimento de ferramentas úteis para diagnóstico.
+Sou técnico com foco prático em campo, bancada, automação, telemetria e diagnóstico de sistemas industriais.
 
-Tenho interesse em:
+Atualmente estou construindo uma base sólida em programação aplicada, com foco em:
 
-- Eletrônica aplicada e manutenção de placas.
-- Inversores, fontes chaveadas e equipamentos industriais.
-- Automação com CLP, Modbus TCP/RTU e supervisão.
-- Desenvolvimento desktop com C#/.NET e Windows Forms.
-- PowerShell, Git, GitHub e Windows Internals.
+- automação industrial e CLPs;
+- testes de I/O e diagnóstico técnico;
+- C#/.NET e Windows Forms;
+- PowerShell para automação profissional;
+- Python para lógica e automação;
+- Git/GitHub para versionamento e portfólio;
+- documentação técnica com evidências reais.
+
+Meu objetivo é evoluir com método: estudar, praticar, errar, corrigir, validar e documentar.
 
 ---
 
 ## Projetos em destaque
 
+### Testador NEON HIO115
+
+Software industrial em C#/.NET para teste e diagnóstico de CLP HI/Neon HIO115, com interface WinForms, I/O manual e fluxo de validação técnica.
+
+[Ver repositório](https://github.com/AtsonMelo/testador-neon-hio115)
+
+---
+
 ### Monitor Hardware
 
-Aplicativo em C#/.NET para monitoramento de sensores de hardware no Windows.
+Aplicativo em C#/.NET 8 para monitoramento de sensores de hardware no Windows, com GUI, tray, logs, relatórios e diagnóstico técnico.
 
 [Ver repositório](https://github.com/AtsonMelo/monitor-hardware)
 
-### Visualg
+---
 
-Meu primeiro contato com programação e lógica de algoritmos.
+### Monitor COM
 
-[Ver repositório](https://github.com/AtsonMelo/Visualg)
+Ferramenta PowerShell para monitorar portas COM no Windows, auxiliando diagnóstico de comunicação serial em automação e CLPs.
 
-### Império Animal do Deserto
+[Ver repositório](https://github.com/AtsonMelo/monitor-com)
 
-Jogo 3D em JavaScript, Vite e Three.js.
+---
 
-[Ver repositório](https://github.com/AtsonMelo/imperio-animal-do-deserto)
+### Atson PowerShell Toolkit
+
+Toolkit PowerShell para automação profissional, Microsoft Graph, notas Markdown, sincronização local e produtividade técnica.
+
+[Ver repositório](https://github.com/AtsonMelo/atson-powershell-toolkit)
+
+---
+
+## Trilha de evolução
+
+Estou organizando minha evolução profissional com evidências:
+
+- exercícios de lógica em Python aplicados à automação;
+- scripts PowerShell reutilizáveis;
+- projetos C#/.NET com aplicação prática;
+- documentação em Markdown;
+- commits, PRs e logs de progresso;
+- README técnico por projeto.
 
 ---
 
@@ -53,13 +82,26 @@ Jogo 3D em JavaScript, Vite e Three.js.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
+
+---
+
+## Áreas de interesse
+
+- Software industrial
+- Automação e CLPs
+- Diagnóstico de I/O
+- Telemetria
+- Eletrônica aplicada
+- PowerShell profissional
+- C#/.NET desktop
+- Python aplicado à automação
+- Git/GitHub e documentação técnica
 
 ---
 
@@ -77,4 +119,4 @@ Jogo 3D em JavaScript, Vite e Three.js.
 
 ## Objetivo
 
-Construir uma base sólida unindo **bancada, eletrônica, automação e software**, criando ferramentas técnicas para diagnóstico, manutenção e aprendizado prático.
+Construir uma base sólida em programação aplicada à indústria, demonstrando evolução real por meio de projetos, documentação, commits, validações práticas e evidências técnicas.
