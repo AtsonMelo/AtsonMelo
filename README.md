@@ -1,88 +1,135 @@
 <div align="center">
 
-# Olá, eu sou o Atson Melo 🤝
+# Atson Melo
 
-🔧 Técnico em Telemetria e Automação Industrial, em evolução para programação aplicada à indústria.
+### Python & PowerShell Automation | PHP Web Developer
 
-Atuo unindo **CLPs, eletrônica, diagnóstico técnico, PowerShell, C#/.NET, Python, Git/GitHub e documentação técnica**.
+I build practical automation scripts, simple web systems, internal tools, reports, and workflow improvements for small business and technical routines.
 
 </div>
 
 ---
 
-## Sobre mim
+## Professional focus
 
-Sou técnico com foco prático em campo, bancada, automação, telemetria e diagnóstico de sistemas industriais.
+I work with practical software solutions that reduce manual work, organize information, and make recurring technical tasks easier to repeat safely.
 
-Atualmente estou construindo uma base sólida em programação aplicada, com foco em:
+My current focus is:
 
-- automação industrial e CLPs;
-- testes de I/O e diagnóstico técnico;
-- C#/.NET e Windows Forms;
-- PowerShell para automação profissional;
-- Python para lógica e automação;
-- Git/GitHub para versionamento e portfólio;
-- documentação técnica com evidências reais.
+- Python scripts for automation and data processing;
+- PowerShell scripts for Windows task automation;
+- PHP web systems, forms, dashboards, and internal tools;
+- MySQL data organization and simple reporting;
+- HTML, CSS, JavaScript, Git, GitHub, and API-based workflows;
+- technical documentation, checklists, testing, and clear delivery notes.
 
-Meu objetivo é evoluir com método: estudar, praticar, errar, corrigir, validar e documentar.
+I prefer small, clear scopes: understand the problem, confirm expectations, build a first working version, test it with real examples, and deliver simple instructions.
 
 ---
 
-## Projetos em destaque
+## How I can help
+
+- Automate repetitive Windows tasks;
+- Create or improve Python and PowerShell scripts;
+- Build small PHP web applications and internal dashboards;
+- Organize files, folders, logs, and reports;
+- Process CSV, text, and structured data;
+- Create technical visit reports and operational documentation;
+- Fix bugs and improve small software workflows;
+- Document scripts and systems so they are easier to use and maintain.
+
+---
+
+## Selected portfolio projects
+
+### Atson Assistant — personal automation assistant
+
+Private portfolio project focused on local productivity, task organization, reports, daily notes, and workflow support.
+
+Highlights:
+
+- Python command-line structure;
+- local web interface;
+- modular project organization;
+- automated tests;
+- Git/GitHub workflow;
+- Markdown-based operational notes and reports.
+
+Technologies: `Python`, `HTML`, `CSS`, `Git`, `GitHub`, `pytest`, `Markdown`.
+
+---
+
+### Sistema de Visitas — technical visit report system
+
+Private PHP web application for organizing technical visits, materials, evidence indexes, pending tasks, internal records, and management reports.
+
+Highlights:
+
+- technical visit data model;
+- Markdown and HTML report generation;
+- materials and pending tasks reports;
+- evidence index by visit point;
+- structured project documentation;
+- test-driven project evolution.
+
+Technologies: `PHP`, `HTML`, `CSS`, `JavaScript`, `MySQL`, `Markdown`, `Git`, `GitHub`.
+
+---
 
 ### Testador NEON HIO115
 
-Software industrial em C#/.NET para teste e diagnóstico de CLP HI/Neon HIO115, com interface WinForms, I/O manual e fluxo de validação técnica.
+Industrial software project for testing and diagnosing NEON/HI CLP digital I/O workflows with a Windows desktop interface.
 
-[Ver repositório](https://github.com/AtsonMelo/testador-neon-hio115)
+Repository: [AtsonMelo/testador-neon-hio115](https://github.com/AtsonMelo/testador-neon-hio115)
 
----
-
-### Monitor Hardware
-
-Aplicativo em C#/.NET 8 para monitoramento de sensores de hardware no Windows, com GUI, tray, logs, relatórios e diagnóstico técnico.
-
-[Ver repositório](https://github.com/AtsonMelo/monitor-hardware)
-
----
-
-### Monitor COM
-
-Ferramenta PowerShell para monitorar portas COM no Windows, auxiliando diagnóstico de comunicação serial em automação e CLPs.
-
-[Ver repositório](https://github.com/AtsonMelo/monitor-com)
+Technologies: `C#`, `.NET`, `WinForms`, `Industrial Automation`, `Git`, `GitHub`.
 
 ---
 
 ### Atson PowerShell Toolkit
 
-Toolkit PowerShell para automação profissional, Microsoft Graph, notas Markdown, sincronização local e produtividade técnica.
+PowerShell toolkit focused on professional automation, Microsoft Graph workflows, Markdown notes, local synchronization, and technical productivity.
 
-[Ver repositório](https://github.com/AtsonMelo/atson-powershell-toolkit)
+Repository: [AtsonMelo/atson-powershell-toolkit](https://github.com/AtsonMelo/atson-powershell-toolkit)
 
----
-
-## Trilha de evolução
-
-Estou organizando minha evolução profissional com evidências:
-
-- exercícios de lógica em Python aplicados à automação;
-- scripts PowerShell reutilizáveis;
-- projetos C#/.NET com aplicação prática;
-- documentação em Markdown;
-- commits, PRs e logs de progresso;
-- README técnico por projeto.
+Technologies: `PowerShell`, `Windows`, `Microsoft Graph`, `Markdown`, `Automation`.
 
 ---
 
-## Tecnologias e ferramentas
+### Monitor COM
+
+PowerShell tool for monitoring COM ports on Windows, supporting serial communication diagnostics for automation and technical troubleshooting.
+
+Repository: [AtsonMelo/monitor-com](https://github.com/AtsonMelo/monitor-com)
+
+Technologies: `PowerShell`, `Windows`, `Serial Communication`, `Automation Diagnostics`.
+
+---
+
+## Working style
+
+- Clear communication;
+- detail-oriented execution;
+- structured problem analysis;
+- practical documentation;
+- careful testing before delivery;
+- focus on small, usable solutions.
+
+---
+
+## Technologies and tools
 
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -91,21 +138,15 @@ Estou organizando minha evolução profissional com evidências:
 
 ---
 
-## Áreas de interesse
+## Background
 
-- Software industrial
-- Automação e CLPs
-- Diagnóstico de I/O
-- Telemetria
-- Eletrônica aplicada
-- PowerShell profissional
-- C#/.NET desktop
-- Python aplicado à automação
-- Git/GitHub e documentação técnica
+I come from a practical technical background in telemetry, industrial automation, electronics, diagnostics, and field support.
+
+I am currently building a stronger software development portfolio by combining programming, automation, documentation, version control, testing, and real-world technical problem solving.
 
 ---
 
-## GitHub Stats
+## GitHub stats
 
 <div align="center">
 
@@ -114,9 +155,3 @@ Estou organizando minha evolução profissional com evidências:
 ![Top Langs](https://github-readme-stats-atsonmelo.vercel.app/api/top-langs/?username=AtsonMelo&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## Objetivo
-
-Construir uma base sólida em programação aplicada à indústria, demonstrando evolução real por meio de projetos, documentação, commits, validações práticas e evidências técnicas.
