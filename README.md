@@ -2,77 +2,85 @@
 
 # Atson Melo
 
-### Python & PowerShell Automation | PHP Web Developer
+**Automation & Internal Tools Developer**
 
-I build practical automation scripts, simple web systems, internal tools, reports, and workflow improvements for small business and technical routines.
+Python · PowerShell · PHP/MySQL · Reports · Data Workflows · Local AI Agents
+
+I build practical automation scripts, internal tools, reporting systems, and local AI agent workflows that reduce manual work and enable safe, repeatable technical operations.
 
 </div>
 
 ---
 
-## Professional focus
+## What I Do
 
-I work with practical software solutions that reduce manual work, organize information, and make recurring technical tasks easier to repeat safely.
+I develop **practical, scalable solutions** for automation, data organization, and internal operations. My focus is on building tools that solve real problems with clear documentation, solid testing, and professional workflows.
 
-My current focus is:
+**Current Stack:**
+- **Python** – Scripting, automation, data processing, testing
+- **PowerShell** – Windows automation, diagnostics, system administration
+- **PHP/MySQL** – Internal web applications, dashboards, forms, reporting systems
+- **Reports & Data** – Technical documentation, evidence tracking, operational logs
 
-- Python scripts for automation and data processing;
-- PowerShell scripts for Windows task automation;
-- PHP web systems, forms, dashboards, and internal tools;
-- MySQL data organization and simple reporting;
-- HTML, CSS, JavaScript, Git, GitHub, and API-based workflows;
-- technical documentation, checklists, testing, and clear delivery notes.
-
-I prefer small, clear scopes: understand the problem, confirm expectations, build a first working version, test it with real examples, and deliver simple instructions.
-
----
-
-## How I can help
-
-- Automate repetitive Windows tasks;
-- Create or improve Python and PowerShell scripts;
-- Build small PHP web applications and internal dashboards;
-- Organize files, folders, logs, and reports;
-- Process CSV, text, and structured data;
-- Create technical visit reports and operational documentation;
-- Fix bugs and improve small software workflows;
-- Document scripts and systems so they are easier to use and maintain.
+**Key Areas:**
+- ✓ Windows automation and diagnostics
+- ✓ Data organization and simple reporting systems
+- ✓ Internal tools and productivity dashboards
+- ✓ Local AI agents and autonomous workflows
+- ✓ Serial communication and industrial automation diagnostics
+- ✓ Git/GitHub workflows and infrastructure
 
 ---
 
-## Selected portfolio projects
+## Selected Projects
 
-### Atson Assistant — personal automation assistant
+### Monitor Hardware
 
-Private portfolio project focused on local productivity, task organization, reports, daily notes, and workflow support.
+Real-time hardware monitoring dashboard for Windows in C#/.NET 8, with sensors, diagnostics, reports, and local system analysis.
 
-Highlights:
+**Repository:** [AtsonMelo/monitor-hardware](https://github.com/AtsonMelo/monitor-hardware)
 
-- Python command-line structure;
-- local web interface;
-- modular project organization;
-- automated tests;
-- Git/GitHub workflow;
-- Markdown-based operational notes and reports.
+**Highlights:**
+- Live sensor data (CPU, GPU, RAM, fans, temperature, voltages)
+- Real-time dashboard with charts and diagnostics
+- System tray monitoring and alerts
+- CSV logging and HTML reporting
+- Automatic updates via GitHub Releases
 
-Technologies: `Python`, `HTML`, `CSS`, `Git`, `GitHub`, `pytest`, `Markdown`.
+**Tech:** C#, .NET 8, Windows Forms, LibreHardwareMonitorLib
 
 ---
 
-### Sistema de Visitas — technical visit report system
+### Atson PowerShell Toolkit
 
-Private PHP web application for organizing technical visits, materials, evidence indexes, pending tasks, internal records, and management reports.
+Professional PowerShell automation toolkit for Windows administration, productivity workflows, and technical scripting.
 
-Highlights:
+**Repository:** [AtsonMelo/atson-powershell-toolkit](https://github.com/AtsonMelo/atson-powershell-toolkit)
 
-- technical visit data model;
-- Markdown and HTML report generation;
-- materials and pending tasks reports;
-- evidence index by visit point;
-- structured project documentation;
-- test-driven project evolution.
+**Highlights:**
+- Microsoft Graph integration (email, calendar automation)
+- Local network synchronization scripts
+- Markdown-based notes and documentation
+- Secure workflow patterns
+- Operational automation examples
 
-Technologies: `PHP`, `HTML`, `CSS`, `JavaScript`, `MySQL`, `Markdown`, `Git`, `GitHub`.
+**Tech:** PowerShell, Windows, Microsoft Graph, Markdown
+
+---
+
+### Monitor COM
+
+Lightweight PowerShell utility for monitoring Windows COM ports, essential for serial communication diagnostics in automation projects.
+
+**Repository:** [AtsonMelo/monitor-com](https://github.com/AtsonMelo/monitor-com)
+
+**Highlights:**
+- Real-time COM port detection and tracking
+- Support for USB-serial converters (CH340, FTDI, Prolific)
+- Quick desktop launcher
+- Foundation for automated device detection
+
+**Tech:** PowerShell, Windows, Serial Communication
 
 ---
 
@@ -80,73 +88,71 @@ Technologies: `PHP`, `HTML`, `CSS`, `JavaScript`, `MySQL`, `Markdown`, `Git`, `G
 
 Industrial software project for testing and diagnosing NEON/HI CLP digital I/O workflows with a Windows desktop interface.
 
-Repository: [AtsonMelo/testador-neon-hio115](https://github.com/AtsonMelo/testador-neon-hio115)
+**Repository:** [AtsonMelo/testador-neon-hio115](https://github.com/AtsonMelo/testador-neon-hio115)
 
-Technologies: `C#`, `.NET`, `WinForms`, `Industrial Automation`, `Git`, `GitHub`.
+**Highlights:**
+- Digital I/O testing for industrial CLPs
+- Structured test flow and validation
+- WinForms interface for field diagnostics
+- Organized project structure
 
----
-
-### Atson PowerShell Toolkit
-
-PowerShell toolkit focused on professional automation, Microsoft Graph workflows, Markdown notes, local synchronization, and technical productivity.
-
-Repository: [AtsonMelo/atson-powershell-toolkit](https://github.com/AtsonMelo/atson-powershell-toolkit)
-
-Technologies: `PowerShell`, `Windows`, `Microsoft Graph`, `Markdown`, `Automation`.
+**Tech:** C#, .NET, WinForms, Industrial Automation
 
 ---
 
-### Monitor COM
+## Current Focus
 
-PowerShell tool for monitoring COM ports on Windows, supporting serial communication diagnostics for automation and technical troubleshooting.
-
-Repository: [AtsonMelo/monitor-com](https://github.com/AtsonMelo/monitor-com)
-
-Technologies: `PowerShell`, `Windows`, `Serial Communication`, `Automation Diagnostics`.
-
----
-
-## Working style
-
-- Clear communication;
-- detail-oriented execution;
-- structured problem analysis;
-- practical documentation;
-- careful testing before delivery;
-- focus on small, usable solutions.
+- 📚 **Learning:** Microsoft ecosystem (C#, .NET, Graph API), automation frameworks, open source best practices
+- 🔧 **Exploring:** Local AI agents, autonomous workflows, feedback systems
+- 📊 **Building:** Reports, data workflows, internal tools with professional structure
+- 🤝 **Contributing:** Open source projects, GitHub workflows, technical documentation
 
 ---
 
-## Technologies and tools
+## My Principles
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+✓ **Clear Communication** – Write concise, actionable documentation  
+✓ **Detail-Oriented** – Test thoroughly before delivery  
+✓ **Structured Analysis** – Understand problems deeply before coding  
+✓ **Practical Solutions** – Build small, focused tools that solve real problems  
+✓ **Professional Standards** – Git/GitHub workflows, testing, CI/CD, version control  
+✓ **Continuous Learning** – Study open source, industry practices, and technical communities
 
 ---
 
 ## Background
 
-I come from a practical technical background in telemetry, industrial automation, electronics, diagnostics, and field support.
+I come from a practical technical background in **telemetry**, **industrial automation**, **electronics**, and **field operations**. This experience drives my focus on building tools that solve real-world problems reliably.
 
-I am currently building a stronger software development portfolio by combining programming, automation, documentation, version control, testing, and real-world technical problem solving.
+I'm building a professional software development portfolio by combining:
+- Programming (Python, PowerShell, PHP, C#/.NET)
+- Automation and systems thinking
+- Technical documentation and communication
+- Git/GitHub and professional workflows
+- Testing, validation, and continuous improvement
+- Open source learning and community participation
 
 ---
 
-## GitHub stats
+## Technologies
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
@@ -155,3 +161,12 @@ I am currently building a stronger software development portfolio by combining p
 ![Top Langs](https://github-readme-stats-atsonmelo.vercel.app/api/top-langs/?username=AtsonMelo&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+## Get in Touch
+
+- **GitHub:** [@AtsonMelo](https://github.com/AtsonMelo)
+- **Issues & Discussions:** Use GitHub for bug reports, feature requests, and discussions
+- **Projects:** Check pinned repositories for current focus areas
+
