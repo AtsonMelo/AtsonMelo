@@ -6,7 +6,7 @@
 
 Python · PowerShell · PHP/MySQL · Reports · Data Workflows · Local AI Agents
 
-I build practical automation scripts, internal tools, reporting systems, and local AI agent workflows that reduce manual work and enable safe, repeatable technical operations.
+I build practical automation scripts, internal tools, reporting systems, and local-first AI agent workflows that reduce manual work and support repeatable technical operations.
 
 </div>
 
@@ -14,7 +14,7 @@ I build practical automation scripts, internal tools, reporting systems, and loc
 
 ## What I Do
 
-I develop **practical, scalable solutions** for automation, data organization, and internal operations. My focus is on building tools that solve real problems with clear documentation, solid testing, and professional workflows.
+I develop **practical automation, internal tools, reports, and data workflows** for day-to-day technical operations. My focus is on small, documented tools that reduce manual work and make technical tasks easier to repeat.
 
 **Current Stack:**
 - **Python** – Scripting, automation, data processing, testing
@@ -26,7 +26,7 @@ I develop **practical, scalable solutions** for automation, data organization, a
 - ✓ Windows automation and diagnostics
 - ✓ Data organization and simple reporting systems
 - ✓ Internal tools and productivity dashboards
-- ✓ Local AI agents and autonomous workflows
+- ✓ Local AI agents and assisted workflows
 - ✓ Serial communication and industrial automation diagnostics
 - ✓ Git/GitHub workflows and infrastructure
 
@@ -53,7 +53,7 @@ Real-time hardware monitoring dashboard for Windows in C#/.NET 8, with sensors, 
 
 ### Atson PowerShell Toolkit
 
-Professional PowerShell automation toolkit for Windows administration, productivity workflows, and technical scripting.
+Practical PowerShell toolkit for Windows administration, productivity workflows, and technical scripting.
 
 **Repository:** [AtsonMelo/atson-powershell-toolkit](https://github.com/AtsonMelo/atson-powershell-toolkit)
 
@@ -103,9 +103,9 @@ Industrial software project for testing and diagnosing NEON/HI CLP digital I/O w
 ## Current Focus
 
 - 📚 **Learning:** Microsoft ecosystem (C#, .NET, Graph API), automation frameworks, open source best practices
-- 🔧 **Exploring:** Local AI agents, autonomous workflows, feedback systems
-- 📊 **Building:** Reports, data workflows, internal tools with professional structure
-- 🤝 **Contributing:** Open source projects, GitHub workflows, technical documentation
+- 🔧 **Exploring:** Local-first AI agents, assisted workflows, feedback systems
+- 📊 **Building:** Reports, data workflows, and documented internal tools
+- 🤝 **Public proof of work:** GitHub projects, technical reports, automation tools, and small open-source contributions
 
 ---
 
@@ -115,7 +115,7 @@ Industrial software project for testing and diagnosing NEON/HI CLP digital I/O w
 ✓ **Detail-Oriented** – Test thoroughly before delivery  
 ✓ **Structured Analysis** – Understand problems deeply before coding  
 ✓ **Practical Solutions** – Build small, focused tools that solve real problems  
-✓ **Professional Standards** – Git/GitHub workflows, testing, CI/CD, version control  
+✓ **Repeatable Workflows** – Git/GitHub, testing, documentation, version control<br>
 ✓ **Continuous Learning** – Study open source, industry practices, and technical communities
 
 ---
@@ -124,7 +124,7 @@ Industrial software project for testing and diagnosing NEON/HI CLP digital I/O w
 
 I come from a practical technical background in **telemetry**, **industrial automation**, **electronics**, and **field operations**. This experience drives my focus on building tools that solve real-world problems reliably.
 
-I'm building a professional software development portfolio by combining:
+I'm building a software development portfolio by combining:
 - Programming (Python, PowerShell, PHP, C#/.NET)
 - Automation and systems thinking
 - Technical documentation and communication
